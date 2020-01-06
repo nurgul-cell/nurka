@@ -1,0 +1,25 @@
+<!--[if lt IE 7 ]> <html class="ie6 ru" dir="ltr"> <![endif]-->
+<!--[if IE 7 ]> <html class="ie7 ru" dir="ltr"> <![endif]-->
+<!--[if IE 8 ]> <html class="ie8 ru" dir="ltr"> <![endif]-->
+<!--[if IE 9 ]> <html class="ie9 ru" dir="ltr"> <![endif]-->
+<!--[if IE 10 ]> <html class="ie10 ru" dir="ltr"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html class="ih-secure ih-checkout theme-iherb responsive-container ru Cart index Cart" dir="ltr">
+<!--<![endif]-->
+<head>
+    
+
+    <!-- Google Tag Manager -->
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        window.dataLayer.push({
+            'countryCode': 'KZ',
+            'currentDevice': '1'
+        });
+        window.dataLayer.push({
+            "ihrDL":
+            {
+                "cart": {
+                    "list": [{"id":"9434"},{"id":"24742"},{"id":"68171"},{"id":"23747"},{"id":"33"}],
+                    "cartId": "b67dc2f5-d4d6-442c-b7e6-c244c7d546f3",
+                    "item": {"0":{"prc":{"bsPrc":"6,237.75","prmTypeAmt":{"Volume":""},"disPrc":"6,237.75","qty":1},"productInfo":
